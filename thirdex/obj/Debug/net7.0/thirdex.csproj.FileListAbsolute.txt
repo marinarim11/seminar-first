@@ -1,0 +1,15 @@
+/Users/marinagrecko/First/thirdex/bin/Debug/net7.0/thirdex
+/Users/marinagrecko/First/thirdex/bin/Debug/net7.0/thirdex.deps.json
+/Users/marinagrecko/First/thirdex/bin/Debug/net7.0/thirdex.runtimeconfig.json
+/Users/marinagrecko/First/thirdex/bin/Debug/net7.0/thirdex.dll
+/Users/marinagrecko/First/thirdex/bin/Debug/net7.0/thirdex.pdb
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/thirdex.csproj.AssemblyReference.cache
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/thirdex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/thirdex.AssemblyInfoInputs.cache
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/thirdex.AssemblyInfo.cs
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/thirdex.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/thirdex.dll
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/refint/thirdex.dll
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/thirdex.pdb
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/thirdex.genruntimeconfig.cache
+/Users/marinagrecko/First/thirdex/obj/Debug/net7.0/ref/thirdex.dll

@@ -1,0 +1,15 @@
+/Users/marinagrecko/First/firstex/fourthex/bin/Debug/net7.0/fourthex
+/Users/marinagrecko/First/firstex/fourthex/bin/Debug/net7.0/fourthex.deps.json
+/Users/marinagrecko/First/firstex/fourthex/bin/Debug/net7.0/fourthex.runtimeconfig.json
+/Users/marinagrecko/First/firstex/fourthex/bin/Debug/net7.0/fourthex.dll
+/Users/marinagrecko/First/firstex/fourthex/bin/Debug/net7.0/fourthex.pdb
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/fourthex.csproj.AssemblyReference.cache
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/fourthex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/fourthex.AssemblyInfoInputs.cache
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/fourthex.AssemblyInfo.cs
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/fourthex.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/fourthex.dll
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/refint/fourthex.dll
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/fourthex.pdb
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/fourthex.genruntimeconfig.cache
+/Users/marinagrecko/First/firstex/fourthex/obj/Debug/net7.0/ref/fourthex.dll

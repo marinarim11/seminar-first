@@ -1,0 +1,15 @@
+/Users/marinagrecko/First/twoex/bin/Debug/net7.0/twoex
+/Users/marinagrecko/First/twoex/bin/Debug/net7.0/twoex.deps.json
+/Users/marinagrecko/First/twoex/bin/Debug/net7.0/twoex.runtimeconfig.json
+/Users/marinagrecko/First/twoex/bin/Debug/net7.0/twoex.dll
+/Users/marinagrecko/First/twoex/bin/Debug/net7.0/twoex.pdb
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/twoex.csproj.AssemblyReference.cache
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/twoex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/twoex.AssemblyInfoInputs.cache
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/twoex.AssemblyInfo.cs
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/twoex.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/twoex.dll
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/refint/twoex.dll
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/twoex.pdb
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/twoex.genruntimeconfig.cache
+/Users/marinagrecko/First/twoex/obj/Debug/net7.0/ref/twoex.dll

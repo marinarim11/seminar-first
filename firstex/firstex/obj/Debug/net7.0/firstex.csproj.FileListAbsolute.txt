@@ -1,0 +1,15 @@
+/Users/marinagrecko/First/firstex/firstex/bin/Debug/net7.0/firstex
+/Users/marinagrecko/First/firstex/firstex/bin/Debug/net7.0/firstex.deps.json
+/Users/marinagrecko/First/firstex/firstex/bin/Debug/net7.0/firstex.runtimeconfig.json
+/Users/marinagrecko/First/firstex/firstex/bin/Debug/net7.0/firstex.dll
+/Users/marinagrecko/First/firstex/firstex/bin/Debug/net7.0/firstex.pdb
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/firstex.csproj.AssemblyReference.cache
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/firstex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/firstex.AssemblyInfoInputs.cache
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/firstex.AssemblyInfo.cs
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/firstex.csproj.CoreCompileInputs.cache
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/firstex.dll
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/refint/firstex.dll
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/firstex.pdb
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/firstex.genruntimeconfig.cache
+/Users/marinagrecko/First/firstex/firstex/obj/Debug/net7.0/ref/firstex.dll

@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{C0ECEAAB-690C-43CD-96EF-16DB4361CBBE}|Default">
+  <MonoDevelop.Ide.ItemProperties.twoex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.firstex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.thirdex PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.fourth FirstBuild="True" />
+</Properties>
